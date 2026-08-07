@@ -2,6 +2,15 @@
 
 <!-- version list -->
 
+## v2.4.1 (2026-08-07)
+
+### Bug Fixes
+
+- Allow API users to think about vertical oscillation "angle" in degrees.
+  ([#533](https://github.com/sblibs/pySwitchbot/pull/533),
+  [`fdd8b1c`](https://github.com/sblibs/pySwitchbot/commit/fdd8b1cdddd8fc91add1a2319e3c386f7336e467))
+
+
 ## v2.4.0 (2026-08-07)
 
 ### Bug Fixes
