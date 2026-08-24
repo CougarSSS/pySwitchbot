@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.6.0 (2026-08-24)
+
+### Features
+
+- Add Circulator Fan Pro (W1160) support ([#508](https://github.com/sblibs/pySwitchbot/pull/508),
+  [`5c2e6c8`](https://github.com/sblibs/pySwitchbot/commit/5c2e6c881191b6a469bc4e2b74e0d338778e8576))
+
+
 ## v2.5.0 (2026-08-24)
 
 ### Chores
