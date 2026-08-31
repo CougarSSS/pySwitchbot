@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.7.0 (2026-08-31)
+
+### Features
+
+- Add Lock Ultra Max support ([#558](https://github.com/sblibs/pySwitchbot/pull/558),
+  [`eefa4a7`](https://github.com/sblibs/pySwitchbot/commit/eefa4a701423a79369a0daaeb517d9692d43e00f))
+
+
 ## v2.6.0 (2026-08-24)
 
 ### Features
